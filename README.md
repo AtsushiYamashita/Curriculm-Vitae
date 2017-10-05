@@ -9,8 +9,8 @@ This is written about my skill and history in publically.
 |Name|Atsushi Yamashita|ヤマシタ アツシ|
 |Birth|1989/07/04|
 |Mail|yays505@gmail.com|
-|Github|[AtsushiYamashita]https://github.com/AtsushiYamashita|
-|Twitter|[@AtsushiYama505]https://twitter.com/AtsushiYama505|
+|Github|[AtsushiYamashita](https://github.com/AtsushiYamashita)|
+|Twitter|[@AtsushiYama505](https://twitter.com/AtsushiYama505)|
 
 
 ## Qualification 資格
@@ -28,7 +28,7 @@ I had join some community in Game developer some country. That time, I think no 
 
 |言語|レベル|
 |-----|-----|
-|日本語|事務員をしていたため、一般的な人より日本語能力があるはずです。|
+|日本語|10年ほど総務をしていたため、一般的な人より日本語能力があるはずです。|
 |Japanese|I think better than good more then normal levels before my previous job (office manager).|
 |英語|正確な翻訳は辞書に頼りますが、技術書の概要を理解する程度ならそのままできます。簡単な日常・技術的会話もできます。|
 |English|I can communication in English. Especially, I had not big problem in technical read/write.|
@@ -80,8 +80,45 @@ But sorry, this detail is Japanese language only.
 |2017|27|グローバルゲームジャム参加。|
 |2017|27|学内生徒向けゲームジャム、三日間を主催。|
 |2017|27|アナログゲームTRPGルールブック「ミュートロギア」をKindleにて出版。|
-|2017|27|温泉合宿ゲームジャム、三日間を主催。|
+|2017|27|温泉合宿ゲームジャム、三日間を主催。[Official site](https://sites.google.com/view/onsen-de-jam/)|
 |2017|27|TGS2017展示「パニックオンザ便器」のプロデューサー兼エンジニアとして参加。|
 
+## Creative 制作作品
+This is my created software can be expressed in public.
+But sorry, this detail is Japanese language only.
+今までに作ってきた作品で、公開できる物。
+
++ Soul sucrifice (2016 / spring)
+	+ C言語のみ
+	+ 特徴的な技術 ： コクのある乱数、パーリンノイズによる自動ダンジョン生成、Astarによる経路案内、関数テーブル、
+	+ 入学後３ヶ月ほどで開発開始。開発期間は二週間。
+	+ 一般的なRPGの特徴はだいたい入れた作品。使用アイテム、装備アイテム、ステータス、状態異常、魔法、複数人パーティー、シナリオシステム
+	+ リンク：更新予定
+
++ Footsteps in the dark (2016 / spring)
+	+ Unity / C#
+	+ 特徴的な技術 : 動く床の実装などにサインムーブなどを使用。
+	+ 一年目の夏休みに作成。動く床、ワープ、タイムアップによる死亡などギミックの実装を担当。
+	+ TGS2016にて展示。
+	+ リンク：https://www.youtube.com/watch?v=eYanv0k8pwU
+  
++ パニックオンザ便器 (2017 / summer)
+	+ Unity / C# / IDEALENS K2+
+	+ 特徴的な技術 : リアル脱出ゲームとVRを組み合わせたゲーム。
+	+ 制作期間は１ヶ月、企画書は無し、仕様書は二行、ディレクターはミーティングにほぼ参加しない環境でほぼ一人で制作。
+  + サウンドなどは後半他のプログラマーに依頼。
+	+ TGS2017に無料展示しほぼ常に60分前後の待機列、メディア二社から取材。ナゾガク2017秋にも有料で展示。
+	
+
+## Buisiness 実務経歴
+My business history.
+This is my supported software can be expressed in public.
+But sorry, this detail is Japanese language only.
+公開できる範囲で、今までにアルバイトなどで行った実務について。
+
++ AQUA PROJECT (2017 / autumn)
+	+ Unity / C# / HTML / JavaScript
+	+ Unityを使った商用ウェアの開発補助。
+	+ 処理の軽量化やドキュメントの整理、関数やクラスの分離やデザインパターンを使った、チーム制作用システムデザインの提案など。
 
 
