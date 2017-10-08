@@ -120,5 +120,6 @@ But sorry, this detail is Japanese language only.
 	+ Unity / C# / HTML / JavaScript
 	+ Unityを使った商用ウェアの開発補助。
 	+ 処理の軽量化やドキュメントの整理、関数やクラスの分離やデザインパターンを使った、チーム制作用システムデザインの提案など。
+	+ [自分の書いたライブラリ部分](https://github.com/AtsushiYamashita/AquaDesign/tree/master/Assets/Script/AY_Util) 
 
 
