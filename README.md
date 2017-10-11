@@ -82,7 +82,7 @@ But sorry, this detail is Japanese language only.
 |2017|27|グローバルゲームジャム参加。|
 |2017|27|学内生徒向けゲームジャム、三日間を主催。|
 |2017|27|アナログゲームTRPGルールブック「ミュートロギア」を[Kindleにて出版](https://www.amazon.co.jp/dp/B071H433SF)。|
-|2017|27|温泉合宿ゲームジャム、三日間を主催。[Official site](https://sites.google.com/view/onsen-de-jam/)|
+|2017|27|交流イベント[温泉合宿ゲームジャム](https://sites.google.com/view/onsen-de-jam/)、三日間を一人で開催。|
 |2017|27|TGS2017展示「[パニックオンザ便器](https://sites.google.com/view/mad-bozu/index)」のプロデューサー兼エンジニアとして参加。|
 
 ## Creative 制作作品
@@ -95,8 +95,17 @@ But sorry, this detail is Japanese language only.
 	+ 特徴的な技術 : リアル脱出ゲームとVRを組み合わせたゲーム。
 	+ 制作期間は１ヶ月、企画書は無し、仕様書は二行、ディレクターはミーティングにほぼ参加しない環境でほぼ一人で制作。
 	+ TGS2017に無料展示しほぼ常に60分前後の待機列、国内外のメディアから多数の記事にしていただきました。(詳細はホームページにあります)
+	+ ![ファミ通App](https://app.famitsu.com/wp-content/uploads/2017/09/IMG_3138.jpg)
 	+ [ナゾガク2017秋](https://nazogaku.wixsite.com/nazogaku2017autumn)にも有料で展示。
-	+ 広告契約による費用回収などもコーディネートしています。
+	+ ナゾガクでは広告契約による費用回収などもコーディネートしています。
+	
++ 温泉合宿ゲームジャム(2017 / spring) ([公式ホームページ](https://sites.google.com/view/onsen-de-jam/))
+	+ ゲーム業界の発展のため、学生と社会人開発者(開発会社およびインディー開発者)の交流を目的として開催。
+	+ 開催のため、Unityさま、CRIさま、CC2さま、DelightWorksさま、VXVさま、オフィス・ワットさまに協賛していただくことに成功。
+	+ 世界ゲーム開発者協会IGDA 日本様でも[募集のご案内](http://www.igda.jp/?p=6771)などをしていただきました。
+	+ 二泊三日で1万円前後という金額ながら、都内開催、温泉あり、お風呂と二食付きなどのイベントにでき、計30名の方にご参加いただきました。
+	+ ![ポスター](https://i2.wp.com/www.igda.jp/wp-content/uploads/2017/05/unnamed.png?w=572)
+	+ Unityの常名さまが[様子をまとめて](https://togetter.com/li/1130083)くださいました。
 	
 + AQUA PROJECT (2017 / autumn)
 	+ Unity / C# / HTML / JavaScript
