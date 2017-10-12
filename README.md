@@ -12,6 +12,8 @@ This is written about my skill and history in publically.
 |Github|[AtsushiYamashita](https://github.com/AtsushiYamashita)|
 |Twitter|[@AtsushiYama505](https://twitter.com/AtsushiYama505)|
 
+![写真](https://pbs.twimg.com/media/DEwkrX5V0AA8xF4.jpg:small)
+
 
 ## Qualification 資格
 I had not want to get qualification. Because it have be not say that not apprise the skills in Game Company.
@@ -96,6 +98,7 @@ But sorry, this detail is Japanese language only.
 	+ 制作期間は１ヶ月、企画書は無し、仕様書は二行、ディレクターはミーティングにほぼ参加しない環境でほぼ一人で制作。
 	+ TGS2017に無料展示しほぼ常に60分前後の待機列、国内外のメディアから多数の記事にしていただきました。(詳細はホームページにあります)
 	+ ![ファミ通App](https://app.famitsu.com/wp-content/uploads/2017/09/IMG_3138.jpg)
+	+ [海外メディアさま(動画)](http://www.gameblog.fr/news/70787-tgs-2017-panic-in-the-toilets-nos-impressions-en-vr-sur-le-t)
 	+ [ナゾガク2017秋](https://nazogaku.wixsite.com/nazogaku2017autumn)にも有料で展示。
 	+ ナゾガクでは広告契約による費用回収などもコーディネートしています。
 	
