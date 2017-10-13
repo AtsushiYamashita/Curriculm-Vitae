@@ -102,6 +102,12 @@ But sorry, this detail is Japanese language only.
 	+ [ナゾガク2017秋](https://nazogaku.wixsite.com/nazogaku2017autumn)にも有料で展示。
 	+ ナゾガクでは広告契約による費用回収などもコーディネートしています。
 	
++ ミュートロギア (2017 / summer) ([公式ホームページ](https://www.amazon.co.jp/dp/B071H433SF))
+	+ TRPGというテーブルゲームのオリジナル・ルールブック。現在はKindle限定で世界中に発売中。(日本語のみ)
+	+ ゲームデザインや文章、イラスト素材などの発注、ディレクション、プロデュースの練習のために制作。
+	+ DTPも自分で行なっています。
+	+ ![表紙](https://images-fe.ssl-images-amazon.com/images/I/51olOdF70HL.jpg)
+	
 + 温泉合宿ゲームジャム(2017 / spring) ([公式ホームページ](https://sites.google.com/view/onsen-de-jam/))
 	+ ゲーム業界の発展のため、学生と社会人開発者(開発会社およびインディー開発者)の交流を目的として開催。
 	+ 開催のため、Unityさま、CRIさま、CC2さま、DelightWorksさま、VXVさま、オフィス・ワットさまに協賛していただくことに成功。
