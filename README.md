@@ -105,7 +105,7 @@ But sorry, this detail is Japanese language only.
 + ミュートロギア (2017 / summer) ([公式ホームページ](https://www.amazon.co.jp/dp/B071H433SF))
 	+ TRPGというテーブルゲームのオリジナル・ルールブック。現在はKindle限定で世界中に発売中。(日本語のみ)
 	+ ゲームデザインや文章、イラスト素材などの発注、ディレクション、プロデュースの練習のために制作。
-	+ DTPも自分で行なっています。
+	+ DTP、公式シナリオと公式リプレイのシナリオ制作、執筆も自分で行なっています。
 	+ ![表紙](https://images-fe.ssl-images-amazon.com/images/I/51olOdF70HL.jpg)
 	
 + 温泉合宿ゲームジャム(2017 / spring) ([公式ホームページ](https://sites.google.com/view/onsen-de-jam/))
