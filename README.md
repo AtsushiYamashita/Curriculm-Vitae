@@ -92,11 +92,16 @@ This is my created software can be expressed in public.
 But sorry, this detail is Japanese language only.
 今までに作ってきた作品で、公開できる物。
 
++ EmoLens (2017 / Autom) ([Github](https://github.com/EmoLens/EmoLens))
+	+ Unity / C# / HoloLens
+	+ Hackathonで2日間で製作中
+
 + パニックオンザ便器 (2017 / summer) ([公式ホームページ](https://sites.google.com/view/mad-bozu/index))
 	+ Unity / C# / IDEALENS K2+
 	+ 特徴的な技術 : リアル脱出ゲームとVRを組み合わせたゲーム。
 	+ 制作期間は１ヶ月、企画書は無し、仕様書は二行、ディレクターはミーティングにほぼ参加しない環境でほぼ一人で制作。
 	+ TGS2017に無料展示しほぼ常に60分前後の待機列、国内外のメディアから多数の記事にしていただきました。(詳細はホームページにあります)
+	+ ![SS](http://drive.google.com/uc?export=view&id=0B1i7PRbqH6cAVHF5LU1BSTN1dW8)
 	+ ![ファミ通App](https://app.famitsu.com/wp-content/uploads/2017/09/IMG_3138.jpg)
 	+ [海外メディアさま(動画)](http://www.gameblog.fr/news/70787-tgs-2017-panic-in-the-toilets-nos-impressions-en-vr-sur-le-t)
 	+ [ナゾガク2017秋](https://nazogaku.wixsite.com/nazogaku2017autumn)にも有料で展示。
