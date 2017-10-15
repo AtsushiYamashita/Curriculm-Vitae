@@ -93,8 +93,12 @@ But sorry, this detail is Japanese language only.
 今までに作ってきた作品で、公開できる物。
 
 + EmoLens (2017 / Autom) ([Github](https://github.com/EmoLens/EmoLens))
-	+ Unity / C# / HoloLens
+	+ Unity / C# / HoloLens / OOS / MiniJson
+	+ プロジェクトリーダー,プログラマー、環境構築(Slack,GoogleDrive,Github(organization))
+	+ カメラに写っている人たちの
 	+ Hackathonで2日間で製作中
+	+ MiniJsonを使ってJSONParserからデータの読み込み。
+	
 
 + パニックオンザ便器 (2017 / summer) ([公式ホームページ](https://sites.google.com/view/mad-bozu/index))
 	+ Unity / C# / IDEALENS K2+
