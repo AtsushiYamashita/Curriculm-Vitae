@@ -92,13 +92,6 @@ This is my created software can be expressed in public.
 But sorry, this detail is Japanese language only.
 今までに作ってきた作品で、公開できる物。
 
-+ EmoLens (2017 / Autom) ([Github](https://github.com/EmoLens/EmoLens))
-	+ Unity / C# / HoloLens / OOS / MiniJson
-	+ プロジェクトリーダー,プログラマー、環境構築(Slack,GoogleDrive,Github(organization))
-	+ カメラに写っている人たちの
-	+ Hackathonで2日間で製作中
-	+ MiniJsonを使ってJSONParserからデータの読み込み。
-	
 
 + パニックオンザ便器 (2017 / summer) ([公式ホームページ](https://sites.google.com/view/mad-bozu/index))
 	+ Unity / C# / IDEALENS K2+
@@ -111,12 +104,6 @@ But sorry, this detail is Japanese language only.
 	+ [ナゾガク2017秋](https://nazogaku.wixsite.com/nazogaku2017autumn)にも有料で展示。
 	+ ナゾガクでは広告契約による費用回収などもコーディネートしています。
 	
-+ ミュートロギア (2017 / summer) ([公式ホームページ](https://www.amazon.co.jp/dp/B071H433SF))
-	+ TRPGというテーブルゲームのオリジナル・ルールブック。現在はKindle限定で世界中に発売中。(日本語のみ)
-	+ ゲームデザインや文章、イラスト素材などの発注、ディレクション、プロデュースの練習のために制作。
-	+ DTP、公式シナリオと公式リプレイのシナリオ制作、執筆も自分で行なっています。
-	+ ![表紙](https://images-fe.ssl-images-amazon.com/images/I/51olOdF70HL.jpg)
-	
 + 温泉合宿ゲームジャム(2017 / spring) ([公式ホームページ](https://sites.google.com/view/onsen-de-jam/))
 	+ ゲーム業界の発展のため、学生と社会人開発者(開発会社およびインディー開発者)の交流を目的として開催。
 	+ 開催のため、Unityさま、CRIさま、CC2さま、DelightWorksさま、VXVさま、オフィス・ワットさまに協賛していただくことに成功。
@@ -124,6 +111,21 @@ But sorry, this detail is Japanese language only.
 	+ 二泊三日で1万円前後という金額ながら、都内開催、温泉あり、お風呂と二食付きなどのイベントにでき、計30名の方にご参加いただきました。
 	+ ![ポスター](https://i2.wp.com/www.igda.jp/wp-content/uploads/2017/05/unnamed.png?w=572)
 	+ Unityの常名さまが[様子をまとめて](https://togetter.com/li/1130083)くださいました。
+
++ EmoLens (2017 / Autom) ([Github](https://github.com/EmoLens/EmoLens))
+	+ Unity / C# / HoloLens / OOS / MiniJson
+	+ プロジェクトリーダー,プログラマー、環境構築(Slack,GoogleDrive,Github(organization))
+	+ カメラに写っている人たちの感情を読み取って「空気を読めるようにする」アプリ。
+	+ Hackathonで2日間で製作。もうしばらく使いやすくなるまで頑張ります。
+	+ MiniJsonを使ってJSONParserからデータの読み込みなどを担当。
+	+ MitLicenseのOSSなので、誰でも利用、改変等可能です。
+	+ ![SS](https://pbs.twimg.com/media/DMLtESJVAAEu8D1.jpg)
+	
++ ミュートロギア (2017 / summer) ([公式ホームページ](https://www.amazon.co.jp/dp/B071H433SF))
+	+ TRPGというテーブルゲームのオリジナル・ルールブック。現在はKindle限定で世界中に発売中。(日本語のみ)
+	+ ゲームデザインや文章、イラスト素材などの発注、ディレクション、プロデュースの練習のために制作。
+	+ DTP、公式シナリオと公式リプレイのシナリオ制作、執筆も自分で行なっています。
+	+ ![表紙](https://images-fe.ssl-images-amazon.com/images/I/51olOdF70HL.jpg)
 	
 + AQUA PROJECT (2017 / autumn)
 	+ Unity / C# / HTML / JavaScript
