@@ -120,6 +120,7 @@ But sorry, this detail is Japanese language only.
 	+ MiniJsonを使ってJSONParserからデータの読み込みなどを担当。
 	+ MitLicenseのOSSなので、誰でも利用、改変等可能です。
 	+ ![SS](https://pbs.twimg.com/media/DMLtESJVAAEu8D1.jpg)
+	+ ![Video](https://www.youtube.com/watch?v=IJMFNjsyctY)
 	
 + ミュートロギア (2017 / summer) ([公式ホームページ](https://www.amazon.co.jp/dp/B071H433SF))
 	+ TRPGというテーブルゲームのオリジナル・ルールブック。現在はKindle限定で世界中に発売中。(日本語のみ)
