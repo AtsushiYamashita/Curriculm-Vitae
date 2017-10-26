@@ -148,7 +148,21 @@ But sorry, this detail is Japanese language only.
 	+ 一般的なRPGの特徴はだいたい入れた作品。使用アイテム、装備アイテム、ステータス、状態異常、魔法、複数人パーティー、シナリオシステム
 	+ リンク：更新予定
 
+## Works 非公開の仕事について
   
++ VR作品リメイク1
+  	+ Unity / C# / HTC Vive / UnityShader
+	+ ロケーションVR展示に合わせたオペレーションの最適化。
+	+ UIなどの表示をシェーダーでクライアント状態に合わせる。
+	
++ VR作品リメイク２
+  	+ Unity / C# / HTC Vive / UnityShader
+	+ ロケーションVR展示に合わせたオペレーションの最適化。
+	+ UIなどの表示をシェーダーでクライアント状態に合わせる。
+
+
+
+
 	
 
 
