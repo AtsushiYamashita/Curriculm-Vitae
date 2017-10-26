@@ -112,7 +112,7 @@ But sorry, this detail is Japanese language only.
 	+ ![ポスター](https://i2.wp.com/www.igda.jp/wp-content/uploads/2017/05/unnamed.png?w=572)
 	+ Unityの常名さまが[様子をまとめて](https://togetter.com/li/1130083)くださいました。
 
-+ EmoLens (2017 / Autom) ([Github](https://github.com/EmoLens/EmoLens))
++ 0003.EmoLens (2017 / Autom) ([Github](https://github.com/EmoLens/EmoLens))
 	+ Unity / C# / HoloLens / OOS / MiniJson
 	+ プロジェクトリーダー,プログラマー、環境構築(Slack,GoogleDrive,Github(organization))
 	+ カメラに写っている人たちの感情を読み取って「空気を読めるようにする」アプリ。
@@ -148,17 +148,25 @@ But sorry, this detail is Japanese language only.
 	+ 一般的なRPGの特徴はだいたい入れた作品。使用アイテム、装備アイテム、ステータス、状態異常、魔法、複数人パーティー、シナリオシステム
 	+ リンク：更新予定
 
+
 ## Works 非公開の仕事について
   
-+ VR作品リメイク1
++ 0001.VR作品アップデート1 (2017 / autom)
   	+ Unity / C# / HTC Vive / UnityShader
-	+ ロケーションVR展示に合わせたオペレーションの最適化。
+	+ 既存のロケーションVR展示作品に合わせたオペレーションの最適化。
 	+ UIなどの表示をシェーダーでクライアント状態に合わせる。
 	
-+ VR作品リメイク２
++ 0002.VR作品アップデート２ (2017 / autom)
   	+ Unity / C# / HTC Vive / UnityShader
-	+ ロケーションVR展示に合わせたオペレーションの最適化。
+	+ 既存のロケーションVR展示作品に合わせたオペレーションの最適化。
 	+ UIなどの表示をシェーダーでクライアント状態に合わせる。
+
++ 0003.VR作品１ (2017 / autom)
+  	+ Unity / C# / HTC Vive / Meta AI / State Machine
+	+ 新規のロケーションVR展示作品に合わせたオペレーションの最適化。
+	+ シーンの読み込みに時間がかかるのが問題だった。
+	+ そこで、Unityのシーン内で疑似的に遷移を行うように、MetaAIとStateMachineで調整。
+	+ その他、Util系ライブラリの実装。
 
 
 
