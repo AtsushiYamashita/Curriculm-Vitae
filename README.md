@@ -148,6 +148,8 @@ But sorry, this detail is Japanese language only.
 	+ 一般的なRPGの特徴はだいたい入れた作品。使用アイテム、装備アイテム、ステータス、状態異常、魔法、複数人パーティー、シナリオシステム
 	+ リンク：更新予定
 
++ 絆の彼方(仮)( 2016 / spring )
+	+ RPG maker mv / javascript / node / npm / mocha / eslint / pixi / nw.gui
 
 ## Works 非公開の仕事について
   
