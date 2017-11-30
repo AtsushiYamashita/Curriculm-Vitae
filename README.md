@@ -112,7 +112,7 @@ But sorry, this detail is Japanese language only.
 	+ ![ポスター](https://i2.wp.com/www.igda.jp/wp-content/uploads/2017/05/unnamed.png?w=572)
 	+ Unityの常名さまが[様子をまとめて](https://togetter.com/li/1130083)くださいました。
 
-+ 0003.EmoLens (2017 / Autom) ([Github](https://github.com/EmoLens/EmoLens))
++ EmoLens (2017 / Autom) ([Github](https://github.com/EmoLens/EmoLens))
 	+ Unity / C# / HoloLens / OOS / MiniJson
 	+ プロジェクトリーダー,プログラマー、環境構築(Slack,GoogleDrive,Github(organization))
 	+ カメラに写っている人たちの感情を読み取って「空気を読めるようにする」アプリ。
@@ -121,7 +121,13 @@ But sorry, this detail is Japanese language only.
 	+ MitLicenseのOSSなので、誰でも利用、改変等可能です。
 	+ ![SS](https://pbs.twimg.com/media/DMLtESJVAAEu8D1.jpg)
 	+ [実際の動画はこちら。](https://youtu.be/IJMFNjsyctY?t=10s)
-	
+
++ Git Trainning (2017 / autom)
+	+ Git / Github / Sourcetree
+	+ 非プログラマー向けのGitトレーニング教室を積木製作社内で主催。
+	+ GitやSourcetreeのインストールから初めてのコミット、プル、プルリク、マージ、ブランチのルールなどを説明。
+	+ 各種Git系サービスの比較を元にした利用形態の提案、相談などを引き受けました。
+
 + ミュートロギア (2017 / summer) ([公式ホームページ](https://www.amazon.co.jp/dp/B071H433SF))
 	+ TRPGというテーブルゲームのオリジナル・ルールブック。現在はKindle限定で世界中に発売中。(日本語のみ)
 	+ ゲームデザインや文章、イラスト素材などの発注、ディレクション、プロデュースの練習のために制作。
@@ -148,7 +154,7 @@ But sorry, this detail is Japanese language only.
 	+ 一般的なRPGの特徴はだいたい入れた作品。使用アイテム、装備アイテム、ステータス、状態異常、魔法、複数人パーティー、シナリオシステム
 	+ リンク：更新予定
 
-+ 絆の彼方(仮)( 2016 / spring )
++ 絆の彼方(仮)( 2017 / spring )
 	+ RPG maker mv / javascript / node / npm / mocha / eslint / pixi / nw.gui
 
 ## Works 非公開の仕事について
@@ -170,14 +176,23 @@ But sorry, this detail is Japanese language only.
 	+ そこで、Unityのシーン内で疑似的に遷移を行うように、MetaAIとStateMachineで調整。
 	+ その他、Util系ライブラリの実装。
 
-+ 0004.Git Trainning (2017 / autom)
-	+ Git / Github / Sourcetree
-	+ 非プログラマー向けのGitトレーニング教室
-	+ GitやSourcetreeのインストールから初めてのコミット、プル、プルリク、マージなどを伝達。
-	+ 各種Gitサービスの比較を元にした利用形態の提案、相談なども。
++ 0004.VR作品１制作 (2017 / autom)
+  	+ Unity / C# / HTC Vive / Meta AI / State Machine
+	+ 新規のロケーションVR展示作品の作成。
+	+ 0003の際に作成したライブラリのアップデートを行い、その他の実装も担当。
+	
++ 0005.Rails系ECサイトのインフラ( 2017 / winter )
+	+ AWS / Heroku / MySQL3 / Ruby on rails / 法務・実務コンサル
+	+ AWSを利用したスタートアップ用ECサイトのインフラ構築。
+	+ データベース設計や、法律、実務フローにおけるアドバイスなども行いました。
 
 
-## TellMe 現在受け付けている仕事
+## TellMe 現在受け付けている仕事 (2018/02/01-)
+
+お仕事については、直近の予定が埋まっているため、来年二月以降からのみとなります。
+相談などは受けられますが、お早めにご連絡ください。
+You can offer to me work is under that.
+But, my schedule is filled before Novenmer.
 
 + 0001.Git Trainner
 	+ GitやGithubなどを利用したい人に、インストールやアカウント作成からサポート。
