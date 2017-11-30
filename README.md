@@ -11,6 +11,8 @@ This is written about my skill and history in publically.
 |Mail|yays505@gmail.com|
 |Github|[AtsushiYamashita](https://github.com/AtsushiYamashita)|
 |Twitter|[@AtsushiYama505](https://twitter.com/AtsushiYama505)|
+|Work in|[積木製作](http://tsumikiseisaku.com/)|
+
 
 ![写真](https://pbs.twimg.com/media/DEwkrX5V0AA8xF4.jpg:small)
 
@@ -86,6 +88,7 @@ But sorry, this detail is Japanese language only.
 |2017|27|アナログゲームTRPGルールブック「ミュートロギア」を[Kindleにて出版](https://www.amazon.co.jp/dp/B071H433SF)。|
 |2017|27|交流イベント[温泉合宿ゲームジャム](https://sites.google.com/view/onsen-de-jam/)、三日間を一人で開催。|
 |2017|27|TGS2017展示「[パニックオンザ便器](https://sites.google.com/view/mad-bozu/index)」のプロデューサー兼エンジニアとして参加。|
+|2017|27|積木製作にエンジニアとして内定。VRチームとMRチームの両方でお仕事しています。|
 
 ## Creative 制作作品
 This is my created software can be expressed in public.
