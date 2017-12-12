@@ -185,10 +185,9 @@ But sorry, this detail is Japanese language only.
 	+ 0003の際に作成したライブラリのアップデートを行い、その他の実装も担当。
 	
 + 0005.Rails系ECサイトのインフラ( 2017 / winter )
-	+ AWS / Heroku / MySQL3 / Ruby on rails / 法務・実務コンサル
+	+ AWS (EC2,ALB,Route53) / Heroku / MySQL3 / Ruby on rails / 法務・実務コンサル
 	+ AWSを利用したスタートアップ用ECサイトのインフラ構築。
 	+ データベース設計や、法律、実務フローにおけるアドバイスなども行いました。
-
 
 ## TellMe 現在受け付けている仕事 (2018/02/01-)
 
