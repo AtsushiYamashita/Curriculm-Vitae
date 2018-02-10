@@ -115,6 +115,11 @@ But sorry, this detail is Japanese language only.
 	+ ![ポスター](https://i2.wp.com/www.igda.jp/wp-content/uploads/2017/05/unnamed.png?w=572)
 	+ Unityの常名さまが[様子をまとめて](https://togetter.com/li/1130083)くださいました。
 
++ SPUR株式会社 法人立ち上げ支援 (2018 / winter)
+	+ 事業コンサルティング / 技術コンサルティング / 技術支援 / twilio / AWS / Slack / bot / Agile / 企業文化
+	+ 会社の代表番号をIP電話Twilioにし、架空コールセンターや録音機能、Slackとの連携などを作成。
+	+　 他にも、Agileを利用した開発文化の醸成など、立ち上げ時期に行いたい技術的な課題への対処を中心に活動しました。
+
 + EmoLens (2017 / Autom) ([Github](https://github.com/EmoLens/EmoLens))
 	+ Unity / C# / HoloLens / OOS / MiniJson
 	+ プロジェクトリーダー,プログラマー、環境構築(Slack,GoogleDrive,Github(organization))
@@ -160,34 +165,41 @@ But sorry, this detail is Japanese language only.
 + 絆の彼方(仮)( 2017 / spring )
 	+ RPG maker mv / javascript / node / npm / mocha / eslint / pixi / nw.gui
 
-## Works 非公開の仕事について
-  
-+ 0001.VR作品アップデート1 (2017 / autom)
-  	+ Unity / C# / HTC Vive / UnityShader
-	+ 既存のロケーションVR展示作品に合わせたオペレーションの最適化。
-	+ UIなどの表示をシェーダーでクライアント状態に合わせる。
-	
-+ 0002.VR作品アップデート２ (2017 / autom)
-  	+ Unity / C# / HTC Vive / UnityShader
-	+ 既存のロケーションVR展示作品に合わせたオペレーションの最適化。
-	+ UIなどの表示をシェーダーでクライアント状態に合わせる。
++ WorkerHub (2018 / winter )
+	+ Unity / C# / Android
 
-+ 0003.VR作品１制作 (2017 / autom)
+## Works 非公開の仕事について
++ Andoid360度アプリ製作 ( 2018 / winter ) 
+	+ Unity / C# / Android / 8k画像
+	+ Androidのジャイロ機能を利用した、8k解像度画像の360度体験アプリを作成。
+	
++ Rails系ECサイトのインフラ( 2017 / winter )
+	+ AWS (EC2,ALB,Route53) / Heroku / MySQL3 / Ruby on rails / 法務・実務コンサル
+	+ AWSを利用したスタートアップ用ECサイトのインフラ構築。
+	+ データベース設計や、法律、実務フローにおけるアドバイスなども行いました。
+
++ VR作品制作2 (2017 / autom)
+  	+ Unity / C# / HTC Vive / Meta AI / State Machine
+	+ 新規のロケーションVR展示作品の作成。
+	+ 0003の際に作成したライブラリのアップデートを行い、その他の実装も担当。
+	
++ VR作品制作1 (2017 / autom)
   	+ Unity / C# / HTC Vive / Meta AI / State Machine
 	+ 新規のロケーションVR展示作品に合わせたオペレーションの最適化。
 	+ シーンの読み込みに時間がかかるのが問題だった。
 	+ そこで、Unityのシーン内で疑似的に遷移を行うように、MetaAIとStateMachineで調整。
 	+ その他、Util系ライブラリの実装。
 
-+ 0004.VR作品１制作 (2017 / autom)
-  	+ Unity / C# / HTC Vive / Meta AI / State Machine
-	+ 新規のロケーションVR展示作品の作成。
-	+ 0003の際に作成したライブラリのアップデートを行い、その他の実装も担当。
++ VR作品アップデート２ (2017 / autom)
+  	+ Unity / C# / HTC Vive / UnityShader
+	+ 既存のロケーションVR展示作品に合わせたオペレーションの最適化。
+	+ UIなどの表示をシェーダーでクライアント状態に合わせる。
 	
-+ 0005.Rails系ECサイトのインフラ( 2017 / winter )
-	+ AWS (EC2,ALB,Route53) / Heroku / MySQL3 / Ruby on rails / 法務・実務コンサル
-	+ AWSを利用したスタートアップ用ECサイトのインフラ構築。
-	+ データベース設計や、法律、実務フローにおけるアドバイスなども行いました。
++ VR作品アップデート1 (2017 / autom)
+  	+ Unity / C# / HTC Vive / UnityShader
+	+ 既存のロケーションVR展示作品に合わせたオペレーションの最適化。
+	+ UIなどの表示をシェーダーでクライアント状態に合わせる。
+
 
 ## TellMe 現在受け付けている仕事 (2018/02/01-)
 
