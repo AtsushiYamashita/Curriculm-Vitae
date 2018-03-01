@@ -47,6 +47,7 @@ But sorry, this detail is Japanese language only.
 |言語/フレームワーク|実務・勉強年数|備考|
 |-----|------------|------|
 |C#(Unity)|3年|Unityを利用し、2D/3D/VR/MRのアプリを開発。特にゲームジャムでの利用が多いです。|
+|C#(Unity:shader)|1年|グラフィック用のシェーダーからGPGPUまで使っています。|
 |Java|3年|入学前も含めてツール開発などにこまめに使っています。|
 |Kotlin(JVM)|0.5年|現在マイブームの言語。ことりん可愛いよ！ Javaと混ぜて使っています。今後は徐々に置き換えて行く予定です。|
 |C|1年|指導教官の方針で、C++の機能を使わないゲーム開発をしました。|
@@ -58,19 +59,9 @@ But sorry, this detail is Japanese language only.
 |JavaScript(WebGL/GLSL)|1年|頂点シェーダ、ピクセルシェーダなどを基本から勉強。レイマーチングまで一通り習得済み。ほどほどに使ってます。|
 |JavaScript(Pixi/MAGE)|0.5年|MAGEライブラリを用いた多人数シューティング格闘ゲームを開発。|
 |JavaScript(node)|1年|expressやsocket.ioなどを用いた開発を趣味と実務で少々。|
-|JavaScript(jQuery)|0.3年|Webデザインの仕事を頼まれて活用しています。これからより勉強を重ねて使いこなして行くつもりです。|
-|JavaScript(React)|0.3年|Webデザインの仕事を頼まれて活用しています。これからより勉強を重ねて使いこなして行くつもりです。|
 |TypeScript|0.3年|Webデザインの仕事を頼まれて活用しています。これからより勉強を重ねて使いこなして行くつもりです。|
-|HTML|1年|プログラミング言語ではないですが、WebデザインやゲームのUI部分で継続的に利用してます。|
-|CSS|1年|デザインを与えられれば概ねをそれを再現できる程度。レスポンシブデザインとかも対応します。|
 |Linux + シェルスクリプト|1.5年|エディタ(vim)含めbashをよく使ってるのでシェルスクリプトも最低限は書けるつもりです。「Linuxという考え方」は枕元に置いています。|
 |Apache|1年|AWSやGCPなどでサーバーを立てる際に使っています。|
-|MySQL|1年|簡単な問い合わせは一通り可能で、検索インデックスの最適化なども勉強しています。|
-|Couchbase(NoSQL)|0.5年|チャットアプリや2DのMOのゲームを開発しました。|
-|PHP|0.5年|掲示板など、よく使われるものは一通り実装経験があります。|
-|Ruby on rails|0.3年|掲示板など、よく使われるものは一通り実装経験があります。|
-|Python|0.3年|英語圏の標準言語として扱われていると考え、現在はwebクローラや人工知能開発などを勉強用に開発中。|
-|Elixir|0.2年|堅牢性などの評価を聞いて、チャットソフトなどを作成。今後はよりアクセス数の多いゲームや、安定性を重視する場面での実験を計画中。|
 
 ## History 経歴
 This is my history.
@@ -88,7 +79,8 @@ But sorry, this detail is Japanese language only.
 |2017|27|アナログゲームTRPGルールブック「ミュートロギア」を[Kindleにて出版](https://www.amazon.co.jp/dp/B071H433SF)。|
 |2017|27|交流イベント[温泉合宿ゲームジャム](https://sites.google.com/view/onsen-de-jam/)、三日間を一人で開催。|
 |2017|27|TGS2017展示「[パニックオンザ便器](https://sites.google.com/view/mad-bozu/index)」のプロデューサー兼エンジニアとして参加。|
-|2017|27|積木製作にエンジニアとして内定。VRチームとMRチームの両方でお仕事しています。|
+|2017|28|積木製作にエンジニアとして内定。|
+|2018|28|積木製作にエンジニアとして就職。VRチームとMRチームの両方でお仕事しています。|
 
 ## Creative 制作作品
 This is my created software can be expressed in public.
@@ -162,13 +154,11 @@ But sorry, this detail is Japanese language only.
 	+ 一般的なRPGの特徴はだいたい入れた作品。使用アイテム、装備アイテム、ステータス、状態異常、魔法、複数人パーティー、シナリオシステム
 	+ リンク：更新予定
 
-+ 絆の彼方(仮)( 2017 / spring )
-	+ RPG maker mv / javascript / node / npm / mocha / eslint / pixi / nw.gui
-
-+ WorkerHub (2018 / winter )
-	+ Unity / C# / Android
-
 ## Works 非公開の仕事について
++ 業務用アプリ開発補助 (2018 / winter)
+	+ Unity / C# / C++ / WinAPI
+	+ 業務支援アプリのために、WinAPIをつかったDLLインジェクションなどを行うアプリを作成。
+
 + Andoid360度アプリ製作 ( 2018 / winter ) 
 	+ Unity / C# / Android / 8k画像
 	+ Androidのジャイロ機能を利用した、8k解像度画像の360度体験アプリを作成。
