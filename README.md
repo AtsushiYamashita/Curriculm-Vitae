@@ -155,14 +155,24 @@ But sorry, this detail is Japanese language only.
 	+ リンク：更新予定
 
 ## Works 非公開の仕事について
-+ 業務用アプリ開発補助 (2018 / winter)
-	+ Unity / C# / C++ / WinAPI
-	+ 業務支援アプリのために、WinAPIをつかったDLLインジェクションなどを行うアプリを作成。
++ 社内ネットワークライブラリ ( 2018 / summer ) 
+	+ Unity / C# / UDP / WebRTC / OSC / HoloLens / .Net core / .Net Framework 
+	+ UDPベースでデザイナーでも簡単に同時プレイを実現できるライブラリを作成。
+	+ マイクとウェブカムを使ってリアルタイムにコミュニケーションできるシステムも。
+	+ .Net coreのHoloLensアプリにも対応
 
-+ Andoid360度アプリ製作 ( 2018 / winter ) 
++ Andoid360度動画ビュワー製作 ( 2018 / summer ) 
+	+ Unity / C# / Android 
+	+ Androidのジャイロ機能を利用した360度動画ビュワーを作成。
+	
++ 業務用アプリ開発補助 (2018 / spring)
+	+ Unity / C# / C++ / WinAPI / DLLインジェクション
+	+ 業務支援アプリのために、WinAPIを使ったアプリを作成。
+
++ Andoid360度静止画ビュワー製作 ( 2018 / spring ) 
 	+ Unity / C# / Android / 8k画像
 	+ Androidのジャイロ機能を利用した、8k解像度画像の360度体験アプリを作成。
-	
+
 + Rails系ECサイトのインフラ( 2017 / winter )
 	+ AWS (EC2,ALB,Route53) / Heroku / MySQL3 / Ruby on rails / 法務・実務コンサル
 	+ AWSを利用したスタートアップ用ECサイトのインフラ構築。
