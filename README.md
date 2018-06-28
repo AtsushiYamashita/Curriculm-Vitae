@@ -11,6 +11,7 @@ This is written about my skill and history in publically.
 |Mail|yays505@gmail.com|
 |Github|[AtsushiYamashita](https://github.com/AtsushiYamashita)|
 |Twitter|[@AtsushiYama505](https://twitter.com/AtsushiYama505)|
+|Qiita|[AtsushiYamashita](https://qiita.com/AtsushiYamashita)|
 |Work in|[積木製作](http://tsumikiseisaku.com/)|
 
 
