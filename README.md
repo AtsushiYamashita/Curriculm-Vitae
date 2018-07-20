@@ -158,6 +158,13 @@ But sorry, this detail is Japanese language only.
 	+ リンク：更新予定
 
 ## Works 非公開の仕事について
++ 社内ネットワークライブラリ２ ( 2018 / summer ) 
+	+ Unity / C# / UNET / NoSQL / FunctionalRPC
+	+ UNETがいいなーと言われたので対応
+	+ 制作にあたって、リアルタイム性や機能性より、可読性の高さや改良のしやすさを高く求められた。
+	+ そこで通常のUNETの処理をラッピングした上で、全ての処理をクライアントシーンのみで実装できるようにした。
+	+ これによって利用側はUNETの概念を詳しく理解せずとも、ふんわりマルチを実装できるようになりました。
+
 + 社内ネットワークライブラリ ( 2018 / summer ) 
 	+ Unity / C# / UDP / WebRTC / OSC / HoloLens / .Net core / .Net Framework 
 	+ UDPベースでデザイナーでも簡単に同時プレイを実現できるライブラリを作成。
