@@ -8,6 +8,7 @@
 ## How to use
 
 - [HowTo](https://github.com/AtsushiYamashita/Curriculm-Vitae/blob/master/howto.md)
+    - Alias, how to make good partnership for work
 
 ## Written
 - [Qiita](https://qiita.com/settings/profile)
