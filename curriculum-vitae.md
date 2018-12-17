@@ -64,32 +64,40 @@ I had join some community in Game developer some country. That time, I think no 
 | Japanese | I think better more then normal levels.Because, my previous job is office manager of documents.                  |
 | English  | I can communication in English. Especially, I had not problem in technical read/write.                           |
 
-### Programming language プログラミング言語/フレームワーク
+### Programming language & Tools プログラミング言語/フレームワーク
 
 I write my used skills in school and bushiness.
 But sorry, this detail is Japanese language only.
 実務/趣味関係なく一定期間使ったことのあるものを整理しています。
 
-| 言語/フレームワーク        | 実務・勉強年数 | 備考                                                                                                                           |
+| 言語/フレームワーク/ツール        | 実務・勉強年数 | 備考                                                                                                                           |
 | -------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | C#(Unity)                  | 4年            | Unityを利用し、2D/3D/VR/MRのアプリを開発。特にゲームジャムでの利用が多いです。                                                 |
 | C#(Unity:shader)           | 1.5年          | グラフィック用のシェーダーからGPGPUまで使っています。                                                                          |
-| C#(Unity:HTC Vive)         | 0.5年          | 実務で最初から実案件を任され、今でも現役で開発しています。                                                                     |
-| C#(Unity:HoloLens)         | 0.5年          | 実務で最初から実案件を任され、今でも現役で開発しています。                                                                     |
-| C#(Unity:Android/OculusGO) | 1年            | 実務も含めて、nativeも触りながら一通りのことはできます。                                                                       |
+| C#(Unity:HTC Vive)         | 1年          | 実務で最初から実案件を任され、今でも現役で開発しています。                                                                     |
+| C#(Unity:HoloLens)         | 1年          | 実務で最初から実案件を任され、今でも現役で開発しています。                                                                     |
+| C#(Unity:Android/OculusGO) | 1.5年            | 実務も含めて、nativeも触りながら一通りのことはできます。                                                                       |
 | Java                       | 3年            | 入学前も含めてツール開発などにこまめに使っています。                                                                           |
 | Kotlin(JVM)                | 1年            | 現在マイブームの言語。ことりん可愛いよ！ Javaと混ぜて使っています。今後は徐々に置き換えて行く予定です。                        |
 | C                          | 1年            | 指導教官の方針で、C++の機能を使わないゲーム開発をしました。                                                                    |
 | C/C++                      | 2年            | STD/STLも含めてライブラリの作成からゲーム開発まで幅広く使っています。                                                          |
 | C/C++(GLUT)                | 2年            | OpenGL2系の公式サポートライブラリを使って3Dゲームを開発。                                                                      |
 | C/C++(GLFW)                | 2年            | OpenGL4系のライブラリを使って、３Dゲームを開発。                                                                               |
-| JavaScript                 | 1.5年          | shellマクロなどを中心に活用。                                                                                                  |
+| JavaScript                 | 2年          | shellマクロなどを中心に活用。                                                                                                  |
 | JavaScript(WebGL)          | 1年            | 簡単な2D/3Dゲームなどを開発。                                                                                                  |
 | JavaScript(WebGL/GLSL)     | 1年            | 頂点シェーダ、ピクセルシェーダなどを基本から勉強。レイマーチングまで一通り習得済み。ほどほどに使ってます。                     |
 | JavaScript(Pixi/MAGE)      | 0.5年          | MAGEライブラリを用いた多人数シューティング対戦ゲームを開発。                                                                   |
-| JavaScript(npm)            | 1年            | 主にCLIツールの作成に利用。ただしReactやvue.jsを利用したサイトなども作っています。                                             |
+| JavaScript(npm)            | 1.5年            | 主にCLIツールの作成に利用。ただしReactやvue.jsを利用したサイトなども作っています。                                             |
 | Linux + シェルスクリプト   | 1.5年          | エディタ(vim)含めbashをよく使ってるのでシェルスクリプトも最低限は書けるつもりです。「Linuxという考え方」は枕元に置いています。 |
 | Apache                     | 1年            | AWSやGCPなどでサーバーを立てる際に使っています。                                                                               |
+| Go                     | 1年            | AWSやGCPなどでDockerと組み合わせて使っています。     
+| Docker                     | 1年            | 開発全般で活用しています
+| VisualStudio                     | 2年            | 主にUnityで使ってました
+| Rider                     | 1年            | 主にUnityで使ってました
+| VSCode                     | 2年            | 開発全般で活用しています
+| AWS                     | 1年            | 開発全般で活用しています
+| Azure                     | 1年            | 開発全般で活用しています
+
 
 ---
 
@@ -201,9 +209,11 @@ But sorry, this detail is Japanese language only.
 ## Works 非公開の仕事について
 
 + 損耗監視ソフトウェア開発プロジェクト( 2018 / autumn )
-    + AWS / npm
+    + AWS(Cloudformation/Fargate/Lambda/VPC/Elasticsearch/S3/AWS-CLI/AWS-SDK) / npm / Go
     + 国際企業の経営管理のため、備品の損耗などを管理するプロジェクト。
     + AWSを使ったインフラの検討、構築などを担当。
+    + セキュリティ対策及び、cloudformationを活用した自動構成管理なども実施しています。
+    + Fargateでのタスク実行は、Goを用いたAWS-SDKによる超軽量イメージで行っています。
 
 + 研修用プロジェクト一式 ( 2018 / autumn )
     + PHP / Laravel / Vue.js / npm / AWS / uml / DevOps
@@ -269,17 +279,18 @@ But sorry, this detail is Japanese language only.
     + UIなどの表示をシェーダーでクライアント状態に合わせる。
 
 
-## TellMe 現在受け付けている仕事 (2018/02/01-)
+## TellMe 現在受け付けている仕事 (2019/02/01-)
 
 お仕事については、直近の予定が埋まっているため、来年二月以降からのみとなります。
 相談などは受けられますが、お早めにご連絡ください。
 You can offer to me work is under that.
 But, my schedule is filled before Novenmer.
 
-+ 0001.Git Trainner
++ 0001.Git Trainner & setups
     + GitやGithubなどを利用したい人に、インストールやアカウント作成からサポート。
     + ボランティアの集会などであれば、入門レベルならこちらも無償でお伝えします。
     + 法人などの場合は人数＊時間＊千円程度から。事後サポートもしますし、運用方法のアドバイスなどもできます。
+    + GitをVPNやVPCで運用するための、各種環境(GitLab/Gitea)のセキュアな構築等も、別費用となりますが行えます。
     
 + 0002.Event organizer
     + ITやゲームに関係するイベントを開催したい場合、ご相談ください。
