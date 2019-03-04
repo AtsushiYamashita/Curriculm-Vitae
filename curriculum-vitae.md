@@ -253,6 +253,13 @@ But sorry, this detail is Japanese language only.
 
 ## Works 非公開の仕事について
 
++ リモート接客システム ( 2019 / spring )
+  + AWS / WebRTC / node / React / Unity / WebSocket
+  + 業務用リモート接客システムの作成プロジェクト。
+  + インフラ、バック、フロント（HTML / 3D CG)まで作成。
+  + 働き方改革などに関連し、アニメーションに近いキャラクターで遠隔接客できるようにしています。
+  + 男女を問わずに自分の性別などを選び、顧客からの要望に応じて対応するなど、新しい形を作っています。
+
 + 損耗監視ソフトウェア開発プロジェクト( 2018 / autumn )
     + AWS(Cloudformation/Fargate/Lambda/VPC/Elasticsearch/S3/AWS-CLI/AWS-SDK) / npm / Go
     + 国際企業の経営管理のため、備品の損耗などを管理するプロジェクト。
